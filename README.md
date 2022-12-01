@@ -1,7 +1,8 @@
 # Advent of Code 2022
 Participating in the [Advent of Code 2022](https://adventofcode.com/2022)!
 
-I'll do this in python since my python needs to be improved but is still somewhat decent. 
+I'll do this in python since my python needs to be improved but is still somewhat decent. Pretty much everything (I hope) will be contained in that one python notebook. We'll see how this goes since I can't think python-ically :(
+![giggle](https://media.tenor.com/vl4M0sXgJ4kAAAAC/peepo-giggles.gif)
 
 **Prompt for Advent of Code:**
 
@@ -10,5 +11,3 @@ I'll do this in python since my python needs to be improved but is still somewha
 >To supply enough magical energy, the expedition needs to retrieve a minimum of *fifty stars* by December 25th. Although the Elves assure you that the grove has plenty of fruit, you decide to grab any fruit you see along the way, just in case.
 
 >Collect stars by solving puzzles. Two puzzles will be made available on each day in the Advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants *one star*. Good luck!
-
-**Number of Stars: 0**
